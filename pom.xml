@@ -11,10 +11,11 @@
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
-  <properties>
-    <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-    <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-  </properties>
+ <properties>
+  <sonar.projectKey>enescinar914_hello-world-1</sonar.projectKey>
+  <sonar.organization>enescinar914</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
   <modules>
     <module>server</module>
@@ -216,10 +217,6 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-         <properties>
-  <sonar.projectKey>enescinar914_hello-world-1</sonar.projectKey>
-  <sonar.organization>enescinar914</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+     
 
 </project>
