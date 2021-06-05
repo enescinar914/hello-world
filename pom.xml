@@ -12,7 +12,6 @@
   <url>http://www.example.com</url>
 
  <properties>
-  <sonar.projectKey>enescinar914_hello-world1</sonar.projectKey>
   <sonar.organization>enescinar914</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
      
