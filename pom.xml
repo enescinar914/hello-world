@@ -15,6 +15,10 @@
   <sonar.projectKey>enescinar914_hello-world1</sonar.projectKey>
   <sonar.organization>enescinar914</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+     
+    <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+ 
 </properties>
 
   <modules>
